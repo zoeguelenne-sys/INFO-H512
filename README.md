@@ -12,8 +12,11 @@ pip install git+https://github.com/jjbrophy47/tree_influence.git
 pip install lightgbm 
 pip install pandas 
 pip install matplotlib
+pip install numpy
+pip install scipy
+pip install scikit-learn
 
-## Jsp trop pourquoi
+## Others 
 pip install ipykernel
 
 ## SHAP API 
