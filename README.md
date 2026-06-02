@@ -16,3 +16,5 @@ pip install matplotlib
 ## Jsp trop pourquoi
 pip install ipykernel
 
+## SHAP API 
+pip install shap
